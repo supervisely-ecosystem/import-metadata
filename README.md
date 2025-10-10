@@ -48,7 +48,7 @@ Look at the examples for Directory and Archive below:
 
 
 ## How To Run 
-**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervisely.com/apps/import-metadata) if it is not there.
+**Step 1**: Add app to your team from [Ecosystem](../../../../supervisely-ecosystem/import-metadata) if it is not there.
 
 **Step 2**: Open context menu of your project -> `Run App` -> `Import Metadata`
 
