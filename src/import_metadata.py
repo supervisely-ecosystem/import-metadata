@@ -1,8 +1,8 @@
 import os
 import tarfile
 
-import supervisely_lib as sly
-from supervisely_lib.io.json import load_json_file
+import supervisely as sly
+from supervisely.io.json import load_json_file
 
 my_app = sly.AppService()
 
